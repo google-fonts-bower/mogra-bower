@@ -1,0 +1,17 @@
+{
+    "name": "mogra-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Lipi Raval"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/mogra-bower.git"
+    },
+    "description": "Mogra font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
